@@ -1,4 +1,4 @@
-# Simple Arithmetic Expression Parser & Assembly Generator
+# Simple Compiler.
 
 This project is a small C program that:
 1. Tokenizes arithmetic expressions (`+` and `-`).
